@@ -31,3 +31,6 @@ Este projeto é uma aplicação de console simples em C# que renomeia todos os a
 ```bash
 git clone https://github.com/seu-usuario/RenomeadorArquivos.git
 cd RenomeadorArquivos
+dotnet build
+dotnet run
+
