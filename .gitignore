@@ -1,0 +1,65 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.orig
+
+# Dotnet artifacts
+project.lock.json
+project.fragment.lock.json
+
+# Environment files
+.env
+.env.*
+
+# Global JetBrains Rider settings
+.idea/
+
+# ReSharper
+_ReSharper*/
+*.ReSharper
+
+# DotCover
+*.dotCover
+
+# Local test results
+TestResults/
+
+# Visual Studio for Mac
+.vscode/
+*.pidb
+*.userprefs
+
+# Others
+*.dbmdl
